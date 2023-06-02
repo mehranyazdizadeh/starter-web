@@ -6,4 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos /n
 Here I will examine to see if slash n makes a new line or backslash n ill do \n
-now lets see 
+now lets see
+it sems non of the above  
+now I try double space and enter to see if it works   
+in above line I made  double space and then hit enter  
